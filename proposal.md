@@ -2,7 +2,7 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+Python Yahtzee (I am not very creative when it comes to titles)
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 A two-player game of Yahtzee.
@@ -40,6 +40,7 @@ Not planning to collaborate
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
 - show scorecard in a neater way 
+- computer vs user Yahtzee game (Ask the user how many players, and if there are only 1, then the user will play against the computer)
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 Currently, I am done with letting each player go for three turns and choosing whether they want to re-roll or hold their dice. Also, I have completed all functions to calculate the scores for each of the 13 scoring possibilities. Next up is:
